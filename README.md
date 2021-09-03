@@ -1,1 +1,2 @@
-# discord-meme-bot1
+# memeland.bot
+meme bot or discord
